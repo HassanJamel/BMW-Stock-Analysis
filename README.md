@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/analyzing-bmw-share-price-1996-2024" target="_blank">
+    <img src="BMW Stock Analysis.png" alt="BMW Stock Analysis" width="500">
+  </a>
+</p>
+
+
 # 📈 BMW Stock Analysis: Advanced Technical Analysis & Forecasting
 
 > **A comprehensive machine learning-powered stock analysis project for BMW AG (Bayerische Motoren Werke AG)**
@@ -393,3 +400,4 @@ For questions or support:
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
 </div>
+
